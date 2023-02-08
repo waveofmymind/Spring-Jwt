@@ -18,5 +18,6 @@ logging:
   level:
     com.tutorial: debug
 
+# waveofmymind-jeonsangjoon-spring-boot-jwtpractice-waveofmymind-jeonsangjoon-spring-boot-jwtpractice
 jwt:
-  secret:
+  secret: d2F2ZW9mbXltaW5kLWplb25zYW5nam9vbi1zcHJpbmctYm9vdC1qd3RwcmFjdGljZS13YXZlb2ZteW1pbmQtamVvbnNhbmdqb29uLXNwcmluZy1ib290LWp3dHByYWN0aWNl
